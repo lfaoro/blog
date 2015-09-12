@@ -11,10 +11,10 @@ relative_permalinks: true
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:				         site name
-title:               site title
+title:               Blog Test 
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 http://blog.lfaoro.com
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
